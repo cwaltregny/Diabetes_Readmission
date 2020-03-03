@@ -20,4 +20,4 @@ We'll divide the project into 4 steps:
 3. Modelling and Evaluation
 4. Conclusion
 
-Instead of just trying algorithms and see which perform best, we'll try to understand which algorithm is best suited for this problem by exploring our data. We'll also assess the added value of the method from a business perspective. 
+Instead of just trying algorithms and see which perform best, we'll try to understand which algorithm would be best suited for this problem by exploring our data. We'll also assess the added value of the method from a business perspective. 
