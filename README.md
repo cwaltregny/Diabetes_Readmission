@@ -1,4 +1,4 @@
-# Predicting Diabetes Readmission
+# Predicting Diabetes Readmission using Supervised Learning (Classification task)
 
 ## Introduction
 
