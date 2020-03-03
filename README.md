@@ -14,10 +14,10 @@ The dataset can be found in https://archive.ics.uci.edu/ml/datasets/diabetes+130
 
 ## Method
 
-I divided the project into 4 steps:
+We'll divide the project into 4 steps:
 1. Problem Description
 2. Data Analysis and Preparation
 3. Modelling and Evaluation
 4. Conclusion
 
-Instead of just trying algorithms and see which perform best, I tried to understand which algorithm is best suited for this problem by exploring our data. I also assessed the added value of the method from a business perspective. 
+Instead of just trying algorithms and see which perform best, we'll try to understand which algorithm is best suited for this problem by exploring our data. We'll also assess the added value of the method from a business perspective. 
